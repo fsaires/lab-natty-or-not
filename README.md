@@ -17,7 +17,7 @@ EconoCast é um podcast que utiliza Inteligência Artificial Generativa para exp
 
 ## 🤖 Inteligência Artificial Generativa Utilizada
 Para aprimorar a produção e o conteúdo do EconoCast, utilizamos as seguintes IAs generativas:
-- **GPT-3**: Para gerar scripts de episódios baseados em temas econômicos e resumir pesquisas complexas de forma acessível.
+- **GPT-4**: Para gerar scripts de episódios baseados em temas econômicos e resumir pesquisas complexas de forma acessível.
 - **StyleGAN2**: Para criar imagens personalizadas e promocionais relacionadas aos episódios, aumentando o engajamento visual.
 
 ## 🚀 Tecnologias Utilizadas
